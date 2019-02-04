@@ -1,4 +1,6 @@
-Location tracking using Mozilla location API
+Location tracking using Mozilla location API.
+It will log an error to the console if it cannot track your location.
+Using a VPN may cause errors in the process
 
 ## Available Scripts
 
