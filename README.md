@@ -2,6 +2,8 @@ Location tracking using Mozilla location API.
 It will log an error to the console if it cannot track your location.
 Using a VPN may cause errors in the process
 
+Deployed using Heroku. This can run very slowly sometimes.
+
 ## Available Scripts
 
 In the project directory, you can run:
